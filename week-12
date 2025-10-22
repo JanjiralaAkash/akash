@@ -1,0 +1,13 @@
+{
+"version":"2012-10-17",
+"statement":
+{
+{
+"effect":"allow",
+"principal":{
+"service":"codepipeline.amazon.com"
+},
+"Action":"sts:assemble"
+}
+}
+}
